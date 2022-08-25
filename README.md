@@ -10,3 +10,7 @@ Cada capítulo tendrá una rama con los conocimientos explicados y en **Master**
 - [MVVM básico](https://youtu.be/EmUx8wgRxJw) - Primera versión de MVVM, lo encontrarás en la rama [**simpleMVVM**](https://github.com/ArisGuimera/MVVMLogin/tree/simpleMVVM)
 
 Recuerda que también puedes ver los capítulos en vídeo [en mi canal de Youtube](https://youtube.com/c/aristidevs)
+
+# CURSO PREMIUM
+
+Apúntate al [curso premium](https://cursokotlin.com/curso-jetpack-compose-desde-cero/) y aprende todo lo necesario para dominar JETPACK COMPOSE.

@@ -14,3 +14,13 @@ Recuerda que también puedes ver los capítulos en vídeo [en mi canal de Youtub
 # CURSO PREMIUM
 
 Apúntate al [curso premium](https://cursokotlin.com/curso-jetpack-compose-desde-cero/) y aprende todo lo necesario para dominar JETPACK COMPOSE.
+
+---
+
+## COLABORA.
+
+Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena de múltiples formas.
+
+- Dale a FAV al proyecto (Star)
+- Sígueme en mis [redes sociales](https://aristi.dev)
+- Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
